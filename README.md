@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @knoxisus
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning react
+- 🌱 I’m currently getting IBM DevOps Certificate
 - 📫 How to reach me? hmm.
 
 <!---
